@@ -11,6 +11,6 @@
 - Backpropagation is more general; juts happened to be used in training of NN
   - Work backwards to find gradients
 - Usually use tensors (vectors, matrices etc.); scalars just for learning purposes
+- 
 
-
-Up to 11:01 on video
+25:04 in video
