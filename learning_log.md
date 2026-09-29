@@ -20,4 +20,4 @@
 - Studying a lot of how to implement forward pass and back propagation (more manually of course)
 - About to start learning the recursive algorithm
 
-1:09:15 in video
+1:22:12 in video
