@@ -20,4 +20,11 @@
 - Studying a lot of how to implement forward pass and back propagation (more manually of course)
 - About to start learning the recursive algorithm
 
-1:22:12 in video
+*Oct 1, 2026*
+
+- Haven't been as consistent with learning log; have been doing a little bit consistently each day
+- At the end of the day, NN is some function applied to input, giving us an output
+- What operations included in values is up to you e.g. basic addition, multiplication vs more complex tanh or exponentials
+- Check NN with forward pass v backward pass
+
+- Micrograd is a scalar valued engine (only scalar values), but PyTorch uses tensors (n-dimensional arrays of scalars)
